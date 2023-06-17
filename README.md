@@ -8,3 +8,7 @@ As students, we are constantly asked to balance rigorous academics with other as
 The goal of our project is to build and train a deep learning model, Recipe Scout (RS), which can correctly identify up to five fruit(s)/vegetable(s) present in an image inputted by the user. RS will then index through a data set of recipes, and select ones which list the identified fruits/vegetables as needed ingredients. These recipes, complete with instructions, will then be returned to the user. With Recipe Scout, users can take a picture of what they already have on hand, and receive immediate guidance on what snacks or meals they can prepare.
 
 This project requires accurate classification of multiple elements amongst noisy backgrounds, which is why the team believes deep learning is a reasonable approach. Deep learning networks have the ability to learn complex features and generalize, which will prove useful in recognizing fruits and vegetables in user-inputted images which have not been cleaned.
+
+**Basic Architecture:** ![Figure 5  APS360 Project Proposal Flowchart](https://github.com/rosieyxl/recipe-scout/assets/123223364/452fb3a7-eb67-4699-991c-5583800f4b0c)
+
+
