@@ -10,3 +10,6 @@ The goal of our project is to build and train a deep learning model, Recipe Scou
 This project requires accurate classification of multiple elements amongst noisy backgrounds, which is why the team believes deep learning is a reasonable approach. Deep learning networks have the ability to learn complex features and generalize, which will prove useful in recognizing fruits and vegetables in user-inputted images which have not been cleaned.
 
 **Basic Architecture:** ![Figure 5  APS360 Project Proposal Flowchart](https://github.com/rosieyxl/recipe-scout/assets/123223364/452fb3a7-eb67-4699-991c-5583800f4b0c)
+
+**Implementation:** <br>
+<img width="1080" alt="image" src="https://github.com/rosieyxl/recipe-scout/assets/73552739/0fbe5d31-6e26-43f7-bc15-677604b09f59">
