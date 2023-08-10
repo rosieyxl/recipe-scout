@@ -13,3 +13,8 @@ This project requires accurate classification of multiple elements amongst noisy
 
 **Implementation:** <br>
 <img width="1080" alt="image" src="https://github.com/rosieyxl/recipe-scout/assets/73552739/0fbe5d31-6e26-43f7-bc15-677604b09f59">
+
+**Extra file downloads:** <br>
+Model Checkpoint https://drive.google.com/file/d/1Qu0-BwZNy19T2GsU-4Trf5AGQHe0iRnI/view?usp=sharing <br>
+Combined Image Dataset (Single & Multi) Labels https://drive.google.com/file/d/1Hs4inQqhSBVQWQzriqDEvtLAWyaEBlrm/view?usp=sharing <br>
+Multi-Labelled Image Dataset Labels https://drive.google.com/file/d/1j3Q2Tj5ds57WJpEtFvjxTUlE_M1pN8CJ/view?usp=sharing 
